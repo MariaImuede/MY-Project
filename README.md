@@ -3,9 +3,12 @@
  
 ### Dashboard Presentation Link : https://www.linkedin.com/posts/maria-imuede-a7230152_powerbi-activity-7111590327534145536-_OEf?utm_source=share&utm_medium=member_desktop
 
+![Cholera](https://github.com/MariaImuede/MY-Project/assets/159175444/65e9d839-953b-4b43-8677-9a797c3fc6dc)
+
 ## Problem Statement
 
 The 1853 Stockholm Cholera Outbreak presents a historical epidemiological challenge, requiring a comprehensive analysis to understand the factors contributing to the outbreak and its impact on the population. The goal is to examine the spread of the disease, identify key patterns and trends in morbidity and mortality rates, and explore potential correlations with factors such as sanitation practices, water sources, and socio-economic conditions. By delving into the historical context and analyzing available data, the objective is to gain insights that can inform public health strategies and interventions to mitigate the spread of cholera and prevent similar outbreaks in the future.
+
 
 
 ### Steps followed 
