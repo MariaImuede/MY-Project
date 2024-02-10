@@ -27,10 +27,10 @@ In the Query Editor, perform data cleaning and transformation tasks such as remo
 - Step 5 : In the report view, under the view tab, theme was selected.
 
 - Step 6 : Visual filters (Slicers) were added for four fields named "Death Count", "Total Profession", "Average age at death".
-- Step 9 : Visuals were added to the canvas, one representing total death by age group, top 10 death by profession, average death age by month and total death by qtr and month
+- Step 7 : Visuals were added to the canvas, one representing total death by age group, top 10 death by profession, average death age by month and total death by qtr and month
 Using visual level filter from the filters pane, basic filtering was used & null values were unselected for consideration into average calculation for average death by month.
            
-- Step 11 : New measures were created 
+- Step 8 : New measures were created 
 
 a. Total Death count was 248 = Total Case = COUNT('cholera-katarina-1853'[Name])
 
@@ -41,7 +41,7 @@ c. Total gender
 Total Gender = DISTINCTCOUNT('cholera-katarina-1853'[Gender])
 
 
-  - Step 18 : The report was then published to Power BI Service.
+  - Step 9 : The report was then published to Power BI Service.
  
  
 
