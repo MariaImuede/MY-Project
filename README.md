@@ -59,29 +59,16 @@ During the outbreak, there were 248 reported cholera-related deaths
 A total of 151 individuals from various professions fell victim to the outbreak.
 The average age at the time of death was 34 years old.
 
-Age Group Distribution: Cholera deaths were distributed across different age groups:
-Older Adults (40%)
-Adults (24%)
-Children (24%)
-Senior Citizens (10%)
+- Age Group Distribution: Cholera deaths were distributed across different age groups: Older Adults (40%), Adults (24%), Children (24%), Senior Citizens (10%)
 
-The average age at death varied by month:
-August: 41 years
-September: 34 years
-October: 33 years
-November: 29 years
+- The average age at death varied by month: August: 41 years, September: 34 years, October: 33 years, November: 29 years.
 
 
-September recorded a significant spike in deaths, with 178 individuals succumbing to cholera.
-October saw 41 deaths.
-November had the lowest death count, with only 8 cases.
+- September recorded a significant spike in deaths, with 178 individuals succumbing to cholera. October saw 41 deaths. November had the lowest death count, with only 8 cases.
 
-Gender Distribution: The gender distribution of cholera-related deaths was as follows:
+- Gender Distribution: The gender distribution of cholera-related deaths was as follows: Female: 52% and Male: 48%
 
-Female: 52%
-Male: 48%
-
-Recommendations:
+# Recommendations:
 Understanding historical disease outbreaks can provide valuable insights for public health. While we can't change the events of the past, we can draw lessons from them to better prepare for future health crises:
 
 1. Improved Sanitation: Invest in improved sanitation infrastructure and hygiene practices to prevent the spread of waterborne diseases like cholera.
@@ -92,4 +79,3 @@ Understanding historical disease outbreaks can provide valuable insights for pub
 3. Medical Preparedness: Ensure that healthcare facilities are adequately prepared with medical supplies, treatments, and trained personnel to respond swiftly to outbreaks.
 
 5. Vaccination Programs: If available, consider vaccination programs as an additional layer of defense against cholera and similar diseases.
-
