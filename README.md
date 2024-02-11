@@ -93,5 +93,3 @@ Understanding historical disease outbreaks can provide valuable insights for pub
 
 5. Vaccination Programs: If available, consider vaccination programs as an additional layer of defense against cholera and similar diseases.
 
-By learning from historical events like the 1853 Stockholm cholera outbreak, we can work towards a healthier and more resilient future Men: 48%
-
