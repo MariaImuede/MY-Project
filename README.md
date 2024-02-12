@@ -8,6 +8,7 @@
 ## Problem Statement
 
 The 1853 Stockholm Cholera Outbreak presents a historical epidemiological challenge, requiring a comprehensive analysis to understand the factors contributing to the outbreak and its impact on the population. The goal is to examine the spread of the disease, identify key patterns and trends in morbidity and mortality rates, and explore potential correlations with factors such as sanitation practices, water sources, and socio-economic conditions. By delving into the historical context and analyzing available data, the objective is to gain insights that can inform public health strategies and interventions to mitigate the spread of cholera and prevent similar outbreaks in the future.
+Dataset provided by: https://www.linkedin.com/company/quantum-analytics-ng/
 
 
 
